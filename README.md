@@ -1,4 +1,4 @@
 # Practical Project- Camouflage Worms
-
-
-## RUNNING
+## Project information
+## Images
+## Usage
