@@ -1,2 +1,1 @@
-# CAMO-WORMS
-Code for CIITS4404 Assignment2
+Practical Project- Camouflage Worms
